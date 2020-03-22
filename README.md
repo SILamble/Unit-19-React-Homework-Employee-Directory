@@ -9,8 +9,9 @@ As a user I want to be abe to view my entire employee directory with quick acces
 ## MVP
 
 User should be able to:
-* 1) Sort table by at least one category
-* 2) Filter the users by at least one property
+* 1) Retrieve and display a list of employees - [x]
+* 2) Sort table by at least one category - [ ]
+* 3) Filter the users by at least one property - [ ]
 
 ## Process
 
