@@ -28,14 +28,11 @@ API URL https://randomuser.me/api/?results=200&nat=us
 
 ### Screenshots
 
-Directory Structure
-![]()
-Live App View
-![]()
-WebManifest & Service Worker In Chrome Dev Tools/Applications
-![]()
-Service Worker In Chrome Dev Tools
-![]()
+App Screenshot
+![App Screenshot]()
+
+Folder STructure, inc Component folders
+![Folder STructure, inc Component folders]()
 
 
 ## Deployment
