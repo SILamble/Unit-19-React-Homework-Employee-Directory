@@ -38,8 +38,8 @@ Service Worker In Chrome Dev Tools
 
 ## Deployment
 
-Github Repo: 
-Heroku Deployed App: 
+Github Repo: https://github.com/SILamble/Unit-19-React-Homework-Employee-Directory
+Heroku Deployed App: https://employee-directory-sil2020.herokuapp.com/
 
 ## Authors
 
