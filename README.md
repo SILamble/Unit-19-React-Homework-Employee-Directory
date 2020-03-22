@@ -29,10 +29,10 @@ API URL https://randomuser.me/api/?results=200&nat=us
 ### Screenshots
 
 App Screenshot
-![App Screenshot]()
+![App Screenshot](https://github.com/SILamble/Unit-19-React-Homework-Employee-Directory/blob/master/public/Assets/Screenshots/Capture001.PNG)
 
 Folder STructure, inc Component folders
-![Folder STructure, inc Component folders]()
+![Folder STructure, inc Component folders](https://github.com/SILamble/Unit-19-React-Homework-Employee-Directory/blob/master/public/Assets/Screenshots/Capture002.PNG)
 
 
 ## Deployment
