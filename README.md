@@ -19,7 +19,6 @@ Using Create React App:
 * 1) Create SRC Folder
 * 2) Create components
 
-
 ### Requirements
 
 React

@@ -1,8 +1,6 @@
 import React from "react";
 
 function DataResults({ users }) {
-
-
   return (
     <tbody>
       {users[0] !== undefined && users[0].name !== undefined ? (
@@ -34,11 +32,10 @@ function DataResults({ users }) {
           );
         })
       ) : (
-        <></>
-      )}
+          <></>
+        )}
     </tbody>
   );
 }
-
 
 export default DataResults;

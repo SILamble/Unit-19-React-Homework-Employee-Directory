@@ -1,7 +1,7 @@
 import React from "react";
 import DataResults from "../DataResults";
 
-function DataTable({headings, users}) {
+function DataTable({ headings, users }) {
   return (
     <div className="datatable mt-5">
       <table
@@ -14,8 +14,7 @@ function DataTable({headings, users}) {
               return (
                 <th
                   className="col"
-                  key={name}
-                >
+                  key={name}>
                   {name}
                   <span className="pointer"></span>
                 </th>
