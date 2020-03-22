@@ -28,7 +28,7 @@ function DataResults({ users }) {
                 </a>
               </td>
               <td data-th="DOB" className="align-middle">
-                {(dob.date)}
+                {(dob.date.substring(0, 10))}
               </td>
             </tr>
           );

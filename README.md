@@ -23,6 +23,8 @@ Using Create React App:
 ### Requirements
 
 React
+Axios
+API URL https://randomuser.me/api/?results=200&nat=us
 
 ### Screenshots
 

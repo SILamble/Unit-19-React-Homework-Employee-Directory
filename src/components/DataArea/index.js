@@ -3,9 +3,10 @@ import Search from "../Search"
 import API from "../../Utils/api.js"
 import DataTable from "../DataTable"
 
+
 export default class DataArea extends React.Component {
     state ={
-        users: [{}]
+        users: [{}],
     }
     headings = [
       { name: "Image"},
@@ -14,6 +15,7 @@ export default class DataArea extends React.Component {
       { name: "Email"},
       { name: "DOB"}
     ]
+  
 
     componentDidMount() {
         API.getUsers().then(results => {
@@ -23,6 +25,7 @@ export default class DataArea extends React.Component {
         });
       };
     
+
       render() {
         return (
           <>
